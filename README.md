@@ -5,6 +5,11 @@ Excel
 
 This is a Sales Analysis Dashboard focusing on the Canadian market. The primary goal of this dashboard is to provide valuable insights and trends to help the company make informed decisions about its sales and marketing strategies. The dashboard encompasses various key performance indicators (KPIs), slicers, and visual representations of the data, allowing you to analyze sales data effectively.
 
+
+![](https://github.com/AdesanmiOjo/Sales-Analysis/blob/main/Sales%20Analytics%202..png)
+sales analysis dashboard
+
+
 - **Trends and Insight**
 
   1. Total Revenue: The total revenue generated in the specified time period which is $9,826,183.
@@ -38,6 +43,5 @@ The Sales Analysis Dashboard provides a comprehensive view of sales data in the 
 
   State-Specific Campaigns: Concentrate marketing efforts in the top three revenue-contributing states to maximize returns.
 
-  Unit Performance Improvement: Investigate and address performance issues in underperforming units to ensure consistent growth across all units.
 
 Incorporating these recommendations into your business strategy will likely result in improved sales and revenue in the Canadian market.
